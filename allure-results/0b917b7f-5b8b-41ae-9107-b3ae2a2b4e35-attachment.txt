@@ -1,0 +1,6 @@
+[35mDEBUG   [0m asyncio:proactor_events.py:631 Using proactor: IocpProactor
+[32mINFO    [0m framework.ui.browser.browser:browser.py:44 Open URL: 'https://www.saucedemo.com/'
+[35mDEBUG   [0m framework.ui.decorators.decorators:decorators.py:23 Action: Type text into ElementType.INPUT 'Username Field' (by Locator: '#user-name')
+[35mDEBUG   [0m framework.ui.decorators.decorators:decorators.py:23 Action: Type text into ElementType.INPUT 'Password Field' (by Locator: '#password')
+[35mDEBUG   [0m framework.ui.decorators.decorators:decorators.py:23 Action: Click on ElementType.BUTTON 'LOGIN Button' (by Locator: '#login-button')
+[35mDEBUG   [0m framework.ui.elements.base_element:base_element.py:100 Get inner text from element: ElementType.LABEL 'Error message' (by Locator: '[data-test='error']')

@@ -1,0 +1,6 @@
+INFO     framework.ui.browser.browser:browser.py:44 Open URL: 'https://www.saucedemo.com/'
+DEBUG    framework.ui.decorators.decorators:decorators.py:23 Action: Type text into ElementType.INPUT 'Username Field' (by Locator: '#user-name')
+DEBUG    framework.ui.decorators.decorators:decorators.py:23 Action: Type text into ElementType.INPUT 'Password Field' (by Locator: '#password')
+WARNING  framework.ui.elements.base_element:input.py:46 Attempted to type an empty value into 'Password Field' element.
+DEBUG    framework.ui.decorators.decorators:decorators.py:23 Action: Click on ElementType.BUTTON 'LOGIN Button' (by Locator: '#login-button')
+DEBUG    framework.ui.elements.base_element:base_element.py:100 Get inner text from element: ElementType.LABEL 'Error message' (by Locator: '[data-test='error']')

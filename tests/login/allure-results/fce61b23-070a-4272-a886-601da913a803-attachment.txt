@@ -1,0 +1,7 @@
+DEBUG    asyncio:proactor_events.py:631 Using proactor: IocpProactor
+INFO     framework.ui.browser.browser:browser.py:44 Open URL: 'https://www.saucedemo.com/'
+DEBUG    framework.ui.decorators.decorators:decorators.py:23 Action: Type text into ElementType.INPUT 'Username Field' (by Locator: '#user-name')
+DEBUG    framework.ui.decorators.decorators:decorators.py:23 Action: Type text into ElementType.INPUT 'Password Field' (by Locator: '#password')
+DEBUG    framework.ui.decorators.decorators:decorators.py:23 Action: Click on ElementType.BUTTON 'LOGIN Button' (by Locator: '#login-button')
+DEBUG    framework.ui.pages.base_page:base_page.py:60 Waiting for page 'Main Page' to load
+DEBUG    framework.ui.pages.base_page:base_page.py:63 Page 'Main Page' loaded
