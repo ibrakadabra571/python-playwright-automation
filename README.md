@@ -106,4 +106,8 @@ allure serve allure-results
 
 ## 📸 Report Preview
 
+## 📸 Report Preview
 
+![Allure Report](assets/allure-report.png)
+
+> Example Allure report generated after test execution
